@@ -1,4 +1,3 @@
-package Assignemt1;
 import java.util.*;
 
 class StackImp
