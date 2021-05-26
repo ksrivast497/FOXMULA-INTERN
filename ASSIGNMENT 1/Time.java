@@ -1,5 +1,3 @@
-package Assignemt1;
-
 public class Time {
     private int hour, min, sec;
 
